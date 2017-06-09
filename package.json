@@ -1,6 +1,6 @@
 {
   "name": "javascript-javastyle-i18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resolves Java Style i18n Strings inside javascript",
   "main": "index.js",
   "scripts": {

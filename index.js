@@ -5,8 +5,6 @@
  */
 function resolveMessageArguments(message, arguments) {
 
-	console.log(message);
-	console.log(arguments);
 	if (!message || message.length < 1) {
 		throw new TypeError("Message has not a value or is not a String");
 	}

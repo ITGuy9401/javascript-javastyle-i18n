@@ -40,7 +40,7 @@ function resolveMessageArguments(message, arguments) {
 			break;
 		}
 	}
-	console.log(message);
+	
 	return message;
 
 }
